@@ -24,6 +24,7 @@
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-72607418-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "publishType": "github",
+    "publishPath": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_25.11.-02.12",
     "versionFirst": "3.9.2",
     "uniqCompNum": 9,
     "versionPublish": "3.9.2"
@@ -84,7 +85,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/regions_25_2.11.-02.12.JPG",
               "width": 1400,
               "link": "",
               "alt": "Новини",
@@ -109,11 +110,11 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#cccccc",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/money-tree.jpg",
+              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B42_2.JPG",
               "width": 1400,
               "link": "",
               "alt": "Новини",
@@ -138,7 +139,7 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#c1c1c1",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -156,67 +157,6 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/regions_25_1.11.-02.12.JPG",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B42_1.JPG",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B43_1.JPG",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#cccccc",
-            "showBullets": true
-          },
-          "_anchor": "slider3-8",
-          "articleLayout": false
         },
         {
           "_inherit": "contacts3",
