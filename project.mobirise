@@ -84,7 +84,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/regions_25.11.-02.12.JPG",
+              "src": "@PROJECT_PATH@/assets/images/600.jpg",
               "width": 1400,
               "link": "",
               "alt": "Новини",
@@ -113,7 +113,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B42.JPG",
+              "src": "@PROJECT_PATH@/assets/images/money-tree.jpg",
               "width": 1400,
               "link": "",
               "alt": "Новини",
