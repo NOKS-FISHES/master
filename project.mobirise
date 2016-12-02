@@ -87,8 +87,8 @@
               "src": "@PROJECT_PATH@/assets/images/regions_25.11.-02.12.JPG",
               "width": 1400,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Новини",
+              "title": "Новини",
               "linkInNewWindow": false,
               "active": true
             },
@@ -116,8 +116,8 @@
               "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B42.JPG",
               "width": 1400,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Новини",
+              "title": "Новини",
               "linkInNewWindow": false,
               "active": true
             },
@@ -145,8 +145,8 @@
               "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B43.JPG",
               "width": 1400,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Новини",
+              "title": "Новини",
               "linkInNewWindow": false,
               "active": true
             },
