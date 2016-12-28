@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NOKS FISHES",
-    "currentPage": "top-novyny-v-regionah-02.12-09.12.html",
+    "currentPage": "top-novyny-v-regionah-16.12-23.12.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -20,12 +20,13 @@
         "isScrollToTopButton": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/untitled1-128x128-78.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/untitled1.jpg",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-72607418-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "versionFirst": "3.9.2",
-    "uniqCompNum": 14,
-    "versionPublish": "3.10.1"
+    "uniqCompNum": 30,
+    "versionPublish": "3.10.3",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "Новини-в-регіонах-25.11.-02.12.html": {
@@ -333,7 +334,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/a1.JPG",
+              "src": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_02.12.-09.12/assets/images/a1.JPG",
               "width": 1400,
               "link": "",
               "alt": "Новини",
@@ -362,7 +363,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/b2.JPG",
+              "src": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_02.12.-09.12/assets/images/b2.JPG",
               "width": 1400,
               "link": "",
               "alt": "Новини",
@@ -391,7 +392,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/c3.JPG",
+              "src": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_02.12.-09.12/assets/images/c3.JPG",
               "width": 1400,
               "link": "",
               "alt": "Новини",
@@ -434,6 +435,516 @@
           ],
           "_name": "contacts5",
           "_anchor": "contacts5-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1logo-shadowmediavershky3.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "http://noksfishes.info/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br>Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "(+38044) 338-86-64<br>(+38095) 140-48-62<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "НОКС ФІШЕC, ПП <br>15, вул. Ревуцького,<br>офіс 10, Київ, Україна<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:mediavershky@gmail.com\" style=\"font-size: 0.875rem; line-height: 1.6;\" target=\"_blank\">mediavershky@gmail.com</a><br></p><p><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "<br><br><br><span style=\"font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><br></span><br><span style=\"font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\">Наші дослідження</span><br>",
+          "text5": "<li><a href=\"http://noksfishes.info/index.php/component/tags/tag/4-banky\" target=\"_blank\">Фінансовий сектор</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"http://noksfishes.info/index.php/component/tags/tag/9-polityka\" target=\"_blank\">Політика</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"http://noksfishes.info/index.php/component/tags/tag/18-rehiony\" target=\"_blank\">Регіони</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"http://noksfishes.info/index.php/component/tags/tag/2-telekom\" target=\"_blank\">Телекомунікаційні компанії</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"http://noksfishes.info/index.php/component/tags/tag/12-sotsmedia\" target=\"_blank\">Соціальні медіа</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text6": "<strong><br></strong><br><strong><br></strong><strong><br></strong><br><strong>Комунікації</strong><br>Без вагань&nbsp;звертайтеся<br>до нас&nbsp;за консультацією.<br><br>Контактну інформацію надано<br>ліворуч.<br><br>Або скористайтеся формою<br>швидкого листування праворуч.<br><br><br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "mediavershky@gmail.com",
+            "alerts": {
+              "success": "Дякуємо, що звернулися до нас!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ваше ім’я"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Ваш Email"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Текст"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Надіслати нам</a>"
+        }
+      ]
+    },
+    "top-novyny-v-regionah-09.12-16.12.html": {
+      "settings": {
+        "title": "Топ-новини з регіонів",
+        "meta_descr": "Тижневе дослідження популярності повідомлень ЗМІ в регіонах України",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/2Ugb7yrLJy4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<br>ТОП-НОВИНИ В РЕГІОНАХ<br><br>за 09-16 грудня<br>&nbsp;<div><br></div>",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-k",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#c1c1c1",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_02.12.-09.12/assets/images/regions_09.12.-16.12-1.JPG",
+              "width": 1400,
+              "link": "",
+              "alt": "Новини",
+              "title": "Новини",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-l",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#cccccc",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_02.12.-09.12/assets/images/regions_09.12.-16.12-2.JPG",
+              "width": 1400,
+              "link": "",
+              "alt": "Новини",
+              "title": "Новини",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-m",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#c1c1c1",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_02.12.-09.12/assets/images/regions_09.12.-16.12-3.JPG",
+              "width": 1400,
+              "link": "",
+              "alt": "Новини",
+              "title": "Новини",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_anchor": "contacts5-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1logo-shadowmediavershky3.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "http://noksfishes.info/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br>Ми пропонуємо технології та послуги щодо збору, систематизації та аналізу інформаційних та рекламних проявів, а також проведення репутаційних досліджень.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "(+38044) 338-86-64<br>(+38095) 140-48-62<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "НОКС ФІШЕC, ПП <br>15, вул. Ревуцького,<br>офіс 10, Київ, Україна<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:mediavershky@gmail.com\" style=\"font-size: 0.875rem; line-height: 1.6;\" target=\"_blank\">mediavershky@gmail.com</a><br></p><p><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "<br><br><br><span style=\"font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><br></span><br><span style=\"font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\">Наші дослідження</span><br>",
+          "text5": "<li><a href=\"http://noksfishes.info/index.php/component/tags/tag/4-banky\" target=\"_blank\">Фінансовий сектор</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"http://noksfishes.info/index.php/component/tags/tag/9-polityka\" target=\"_blank\">Політика</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"http://noksfishes.info/index.php/component/tags/tag/18-rehiony\" target=\"_blank\">Регіони</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"http://noksfishes.info/index.php/component/tags/tag/2-telekom\" target=\"_blank\">Телекомунікаційні компанії</a><a class=\"text-primary\" href=\"#\"></a></li><li><a href=\"http://noksfishes.info/index.php/component/tags/tag/12-sotsmedia\" target=\"_blank\">Соціальні медіа</a><a class=\"text-primary\" href=\"#\"></a></li>",
+          "text6": "<strong><br></strong><br><strong><br></strong><strong><br></strong><br><strong>Комунікації</strong><br>Без вагань&nbsp;звертайтеся<br>до нас&nbsp;за консультацією.<br><br>Контактну інформацію надано<br>ліворуч.<br><br>Або скористайтеся формою<br>швидкого листування праворуч.<br><br><br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "mediavershky@gmail.com",
+            "alerts": {
+              "success": "Дякуємо, що звернулися до нас!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ваше ім’я"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Ваш Email"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Текст"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Надіслати нам</a>"
+        }
+      ]
+    },
+    "top-novyny-v-regionah-16.12-23.12.html": {
+      "settings": {
+        "title": "Топ-новини з регіонів",
+        "meta_descr": "Тижневе дослідження популярності повідомлень ЗМІ в регіонах України",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-p",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/2Ugb7yrLJy4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<br>ТОП-НОВИНИ В РЕГІОНАХ<br><br>за 16-23 грудня<br>&nbsp;<div><br></div>",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-q",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#c1c1c1",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_02.12.-09.12/assets/images/regions_09.12.-16.12-1.JPG",
+              "width": 1400,
+              "link": "",
+              "alt": "Новини",
+              "title": "Новини",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-r",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#cccccc",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_02.12.-09.12/assets/images/regions_09.12.-16.12-2.JPG",
+              "width": 1400,
+              "link": "",
+              "alt": "Новини",
+              "title": "Новини",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-s",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#c1c1c1",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "file:///E:/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BC%D0%BE%D0%BD%D1%96%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D1%83/%D0%BC%D0%B5%D0%B4%D1%96%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8/%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0/2016/regions_02.12.-09.12/assets/images/regions_09.12.-16.12-3.JPG",
+              "width": 1400,
+              "link": "",
+              "alt": "Новини",
+              "title": "Новини",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_anchor": "contacts5-t",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,

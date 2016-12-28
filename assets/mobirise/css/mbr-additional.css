@@ -455,3 +455,53 @@ h6,
 #contacts5-d P {
   text-align: left;
 }
+#header1-j .mbr-section-title {
+  text-align: center;
+}
+#contacts5-n p,
+#contacts5-n .list-group-text,
+#contacts5-n .form-control-label {
+  color: #000;
+}
+#contacts5-n strong,
+#contacts5-n h4 {
+  color: #7e9b9f;
+}
+#contacts5-n form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-n .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-n .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-n P {
+  text-align: left;
+}
+#header1-p .mbr-section-title {
+  text-align: center;
+}
+#contacts5-t p,
+#contacts5-t .list-group-text,
+#contacts5-t .form-control-label {
+  color: #000;
+}
+#contacts5-t strong,
+#contacts5-t h4 {
+  color: #7e9b9f;
+}
+#contacts5-t form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-t .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-t .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-t P {
+  text-align: left;
+}
